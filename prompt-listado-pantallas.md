@@ -54,6 +54,21 @@ El usuario cierra la aplicación sintiéndose escuchado, menos solo, más calmad
 
 Quiero que generes una **lista secuencial de pantallas** que respalden los procesos principales descritos a continuación:
 
-`[Proceso_seleccionadao_para_modelar]`
+`Etapa 1: Onboarding y Establecimiento de Confianza
+Objetivo de la Etapa: Verificar al usuario para proteger la comunidad y, simultáneamente, establecer un pacto de confianza al garantizar el anonimato interno.
+Paso 1.1: Llegada y Comprensión de la Propuesta de Valor
+Descripción: El usuario llega a la pantalla de bienvenida. La interfaz le comunica inmediatamente que Mindra es un espacio seguro y de apoyo.
+Entradas: Usuario accede a la URL de Mindra.
+Acciones del Usuario: Lee el mensaje de bienvenida y hace clic en "Continuar" o "Empezar".
+Salidas/Resultados: El usuario comprende el propósito de la aplicación y avanza al siguiente paso sintiéndose acogido.
+Paso 1.2: Creación de Cuenta Anónima y Verificación
+Descripción: Se le solicita al usuario crear una cuenta. Se le explica que este paso es para la seguridad de la comunidad y que su identidad real (email) no será visible. El paso crucial es la creación de su alias anónimo.
+Entradas: El usuario está en la pantalla de "Sign up".
+Acciones del Usuario: Ingresa un email y contraseña (para verificación) y elige su alias anónimo. Acepta los términos y condiciones.
+Salidas/Resultados: Se crea una cuenta de usuario verificada pero anónima internamente. El usuario ingresa a la aplicación con la seguridad de que su identidad está protegida.`
 
-Quiero que crees una **lista detallada de pantallas** que respalden los objetivos y subprocesos anteriores, asegurando una experiencia **intuitiva y eficiente para los `[Tipo_de_usuario]`**. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de `[Objetivo_del_proceso_principal]`.
+Quiero que crees una **lista detallada de pantallas** que respalden los objetivos y subprocesos anteriores, asegurando una experiencia **intuitiva y eficiente para los `Jovenes Conectados pero Emocionalmente Aislados"`**. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de `El objetivo principal del proceso de Mindra es guiar al usuario desde un estado de malestar emocional y aislamiento hacia un sentimiento de alivio, conexión y empoderamiento.
+Este objetivo se logra a través de tres metas fundamentales a lo largo del viaje del usuario:
+Ofrecer un primer paso seguro y anónimo para que el usuario rompa el silencio y exprese sus sentimientos sin miedo al juicio.
+Facilitar la validación y el apoyo mutuo a través de una comunidad de pares que comparte experiencias similares, combatiendo eficazmente la sensación de soledad.
+Proveer herramientas y recursos claros y confiables (tanto de autocuidado como profesionales) que le permitan al usuario tomar acciones concretas para su bienestar, transformando la incertidumbre en un plan de acción.`.
